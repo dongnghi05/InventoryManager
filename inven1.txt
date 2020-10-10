@@ -1,0 +1,5 @@
+50001 DietCoke 1.49 35
+50002 CokeZero 1.48 32
+50003 Pepsi 1.39 40
+60001 Milk1Gal 2.59 30
+60002 OrgMilk1G 3.49 20
